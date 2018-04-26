@@ -1,0 +1,202 @@
+geo,geo Name,geo RegionId,sex,sex Name,Measure,Measure Name,Scale,Units,2011,2012,2013,2014,2015
+EU28,European Union (28 countries),EU28,T,Total,PC_EMP,Percentage of total employment,units,,0.7,0.73,0.7,0.72,0.74
+EU28,European Union (28 countries),EU28,T,Total,THS_PER,Thousand persons,units,,1493.2,1554.8,1504.4,1566.8,1626.3
+EU28,European Union (28 countries),EU28,M,Males,PC_EMP,Percentage of total employment,units,,0.67,0.71,0.71,0.73,0.75
+EU28,European Union (28 countries),EU28,M,Males,THS_PER,Thousand persons,units,,780.4,824.1,822.2,860.4,894.4
+EU28,European Union (28 countries),EU28,F,Females,PC_EMP,Percentage of total employment,units,,0.73,0.75,0.7,0.71,0.73
+EU28,European Union (28 countries),EU28,F,Females,THS_PER,Thousand persons,units,,712.9,730.7,682.1,706.3,732
+BE,Belgium,BE,T,Total,PC_EMP,Percentage of total employment,units,,0.53,0.51,0.47,0.45,0.44
+BE,Belgium,BE,T,Total,THS_PER,Thousand persons,units,,23.9,23.2,21.1,20.5,19.8
+BE,Belgium,BE,M,Males,PC_EMP,Percentage of total employment,units,,0.55,0.48,0.51,0.5,0.49
+BE,Belgium,BE,M,Males,THS_PER,Thousand persons,units,,13.5,11.9,12.6,12.2,12
+BE,Belgium,BE,F,Females,PC_EMP,Percentage of total employment,units,,0.51,0.55,0.41,0.39,0.37
+BE,Belgium,BE,F,Females,THS_PER,Thousand persons,units,,10.5,11.3,8.5,8.3,7.9
+BG,Bulgaria,BG,T,Total,PC_EMP,Percentage of total employment,units,,0.35,0.3,0.31,0.32,0.35
+BG,Bulgaria,BG,T,Total,THS_PER,Thousand persons,units,,10.3,8.9,9.1,9.5,10.6
+BG,Bulgaria,BG,M,Males,PC_EMP,Percentage of total employment,units,,0.43,0.35,0.42,0.46,0.43
+BG,Bulgaria,BG,M,Males,THS_PER,Thousand persons,units,,6.8,5.4,6.5,7.3,6.9
+BG,Bulgaria,BG,F,Females,PC_EMP,Percentage of total employment,units,,,,,,0.26
+BG,Bulgaria,BG,F,Females,THS_PER,Thousand persons,units,,,,,,3.7
+CZ,Czech Republic,CZ,T,Total,PC_EMP,Percentage of total employment,units,,0.53,0.45,0.51,0.58,0.54
+CZ,Czech Republic,CZ,T,Total,THS_PER,Thousand persons,units,,25.9,22.2,25.1,29,27.3
+CZ,Czech Republic,CZ,M,Males,PC_EMP,Percentage of total employment,units,,0.59,0.45,0.5,0.59,0.59
+CZ,Czech Republic,CZ,M,Males,THS_PER,Thousand persons,units,,16.3,12.4,13.9,16.7,16.7
+CZ,Czech Republic,CZ,F,Females,PC_EMP,Percentage of total employment,units,,0.46,0.46,0.52,0.57,0.48
+CZ,Czech Republic,CZ,F,Females,THS_PER,Thousand persons,units,,9.7,9.8,11.2,12.2,10.6
+DK,Denmark,DK,T,Total,PC_EMP,Percentage of total employment,units,,1,0.97,0.92,1.04,1.09
+DK,Denmark,DK,T,Total,THS_PER,Thousand persons,units,,26.9,26.2,24.7,28.1,29.9
+DK,Denmark,DK,M,Males,PC_EMP,Percentage of total employment,units,,0.88,0.96,0.87,0.99,1.05
+DK,Denmark,DK,M,Males,THS_PER,Thousand persons,units,,12.5,13.5,12.3,14.1,15.2
+DK,Denmark,DK,F,Females,PC_EMP,Percentage of total employment,units,,1.12,1,0.97,1.1,1.14
+DK,Denmark,DK,F,Females,THS_PER,Thousand persons,units,,14.3,12.7,12.4,14,14.7
+DE,Germany (until 1990 former territory of the FRG),DE,T,Total,PC_EMP,Percentage of total employment,units,,0.45,0.52,0.55,0.55,0.56
+DE,Germany (until 1990 former territory of the FRG),DE,T,Total,THS_PER,Thousand persons,units,,173.3,204.3,218.2,218.8,224.2
+DE,Germany (until 1990 former territory of the FRG),DE,M,Males,PC_EMP,Percentage of total employment,units,,0.39,0.46,0.49,0.5,0.52
+DE,Germany (until 1990 former territory of the FRG),DE,M,Males,THS_PER,Thousand persons,units,,81.3,97.3,103.9,106.1,112.4
+DE,Germany (until 1990 former territory of the FRG),DE,F,Females,PC_EMP,Percentage of total employment,units,,0.52,0.59,0.62,0.61,0.6
+DE,Germany (until 1990 former territory of the FRG),DE,F,Females,THS_PER,Thousand persons,units,,92,107,114.3,112.7,111.8
+EE,Estonia,EE,T,Total,PC_EMP,Percentage of total employment,units,,0.56,0.65,0.82,1.01,0.77
+EE,Estonia,EE,T,Total,THS_PER,Thousand persons,units,,3.4,4,5.1,6.3,4.9
+EE,Estonia,EE,M,Males,PC_EMP,Percentage of total employment,units,,0.39,0.67,1.05,1.07,0.81
+EE,Estonia,EE,M,Males,THS_PER,Thousand persons,units,,1.2,2.1,3.3,3.4,2.6
+EE,Estonia,EE,F,Females,PC_EMP,Percentage of total employment,units,,0.73,0.63,0.59,0.96,0.74
+EE,Estonia,EE,F,Females,THS_PER,Thousand persons,units,,2.2,1.9,1.8,2.9,2.3
+IE,Ireland,IE,T,Total,PC_EMP,Percentage of total employment,units,,0.98,0.91,0.94,0.94,0.89
+IE,Ireland,IE,T,Total,THS_PER,Thousand persons,units,,17.9,16.7,17.6,17.8,17.3
+IE,Ireland,IE,M,Males,PC_EMP,Percentage of total employment,units,,1.08,1.01,1.06,1.05,1.02
+IE,Ireland,IE,M,Males,THS_PER,Thousand persons,units,,10.6,9.8,10.7,10.8,10.7
+IE,Ireland,IE,F,Females,PC_EMP,Percentage of total employment,units,,0.86,0.81,0.8,0.81,0.74
+IE,Ireland,IE,F,Females,THS_PER,Thousand persons,units,,7.4,6.9,6.9,7,6.6
+EL,Greece,EL,T,Total,PC_EMP,Percentage of total employment,units,,0.31,0.22,0.28,0.4,0.43
+EL,Greece,EL,T,Total,THS_PER,Thousand persons,units,,12.4,8.2,9.7,14.2,15.6
+EL,Greece,EL,M,Males,PC_EMP,Percentage of total employment,units,,0.29,0.24,0.26,0.44,0.52
+EL,Greece,EL,M,Males,THS_PER,Thousand persons,units,,7,5.3,5.3,8.9,10.9
+EL,Greece,EL,F,Females,PC_EMP,Percentage of total employment,units,,0.32,0.19,0.31,0.36,0.31
+EL,Greece,EL,F,Females,THS_PER,Thousand persons,units,,5.4,2.9,4.4,5.3,4.7
+ES,Spain,ES,T,Total,PC_EMP,Percentage of total employment,units,,0.8,0.91,0.96,1.08,1.03
+ES,Spain,ES,T,Total,THS_PER,Thousand persons,units,,148.3,159.6,164.1,187.9,183.3
+ES,Spain,ES,M,Males,PC_EMP,Percentage of total employment,units,,0.9,0.98,0.97,1.07,1.08
+ES,Spain,ES,M,Males,THS_PER,Thousand persons,units,,91.4,93.9,90.6,101.5,105
+ES,Spain,ES,F,Females,PC_EMP,Percentage of total employment,units,,0.69,0.82,0.94,1.09,0.97
+ES,Spain,ES,F,Females,THS_PER,Thousand persons,units,,56.9,65.8,73.5,86.4,78.3
+FR,France,FR,T,Total,PC_EMP,Percentage of total employment,units,,1.09,1.08,0.83,0.64,0.67
+FR,France,FR,T,Total,THS_PER,Thousand persons,units,,279.1,277.4,212.7,167.3,176.1
+FR,France,FR,M,Males,PC_EMP,Percentage of total employment,units,,0.9,0.93,0.88,0.72,0.73
+FR,France,FR,M,Males,THS_PER,Thousand persons,units,,121.1,124.7,117.3,96.7,98.1
+FR,France,FR,F,Females,PC_EMP,Percentage of total employment,units,,1.3,1.25,0.78,0.56,0.62
+FR,France,FR,F,Females,THS_PER,Thousand persons,units,,158.1,152.6,95.4,70.7,78
+HR,Croatia,HR,T,Total,PC_EMP,Percentage of total employment,units,,0.25,0.29,0.3,0.39,0.3
+HR,Croatia,HR,T,Total,THS_PER,Thousand persons,units,,4.1,4.5,4.6,6.1,4.7
+HR,Croatia,HR,M,Males,PC_EMP,Percentage of total employment,units,,0.25,0.31,0.3,0.4,0.35
+HR,Croatia,HR,M,Males,THS_PER,Thousand persons,units,,2.2,2.6,2.4,3.4,3
+HR,Croatia,HR,F,Females,PC_EMP,Percentage of total employment,units,,0.26,0.27,0.3,0.38,0.23
+HR,Croatia,HR,F,Females,THS_PER,Thousand persons,units,,1.9,1.9,2.1,2.7,1.7
+IT,Italy,IT,T,Total,PC_EMP,Percentage of total employment,units,,0.46,0.44,0.47,0.54,0.52
+IT,Italy,IT,T,Total,THS_PER,Thousand persons,units,,104.8,99.9,103.9,120.2,117.5
+IT,Italy,IT,M,Males,PC_EMP,Percentage of total employment,units,,0.48,0.45,0.47,0.51,0.47
+IT,Italy,IT,M,Males,THS_PER,Thousand persons,units,,64.2,59.4,60.9,66.6,62
+IT,Italy,IT,F,Females,PC_EMP,Percentage of total employment,units,,0.44,0.43,0.46,0.57,0.59
+IT,Italy,IT,F,Females,THS_PER,Thousand persons,units,,40.6,40.5,43,53.6,55.5
+CY,Cyprus,CY,T,Total,PC_EMP,Percentage of total employment,units,,0.82,0.56,0.53,0.58,0.53
+CY,Cyprus,CY,T,Total,THS_PER,Thousand persons,units,,3.3,2.2,1.9,2.1,1.9
+CY,Cyprus,CY,M,Males,PC_EMP,Percentage of total employment,units,,1.07,0.85,0.76,0.64,0.71
+CY,Cyprus,CY,M,Males,THS_PER,Thousand persons,units,,2.2,1.7,1.4,1.2,1.3
+CY,Cyprus,CY,F,Females,PC_EMP,Percentage of total employment,units,,0.55,,,0.51,0.33
+CY,Cyprus,CY,F,Females,THS_PER,Thousand persons,units,,1,,,0.9,0.6
+LV,Latvia,LV,T,Total,PC_EMP,Percentage of total employment,units,,0.55,0.69,0.54,0.65,0.62
+LV,Latvia,LV,T,Total,THS_PER,Thousand persons,units,,4.7,6,4.8,5.8,5.5
+LV,Latvia,LV,M,Males,PC_EMP,Percentage of total employment,units,,0.56,0.82,0.62,0.67,0.67
+LV,Latvia,LV,M,Males,THS_PER,Thousand persons,units,,2.3,3.5,2.7,2.9,3
+LV,Latvia,LV,F,Females,PC_EMP,Percentage of total employment,units,,0.54,0.56,0.46,0.64,0.56
+LV,Latvia,LV,F,Females,THS_PER,Thousand persons,units,,2.4,2.5,2.1,2.8,2.5
+LT,Lithuania,LT,T,Total,PC_EMP,Percentage of total employment,units,,0.42,0.41,0.41,0.45,0.51
+LT,Lithuania,LT,T,Total,THS_PER,Thousand persons,units,,5.3,5.2,5.2,5.9,6.8
+LU,Luxembourg,LU,T,Total,PC_EMP,Percentage of total employment,units,,0.51,0.58,0.65,0.49,0.75
+LU,Luxembourg,LU,T,Total,THS_PER,Thousand persons,units,,1.1,1.3,1.5,1.2,1.7
+LU,Luxembourg,LU,M,Males,PC_EMP,Percentage of total employment,units,,0.58,0.65,0.59,0.56,0.83
+LU,Luxembourg,LU,M,Males,THS_PER,Thousand persons,units,,0.7,0.8,0.8,0.7,1.1
+LU,Luxembourg,LU,F,Females,PC_EMP,Percentage of total employment,units,,,0.5,0.73,,0.65
+LU,Luxembourg,LU,F,Females,THS_PER,Thousand persons,units,,,0.5,0.7,,0.7
+HU,Hungary,HU,T,Total,PC_EMP,Percentage of total employment,units,,0.29,0.29,0.31,0.35,0.44
+HU,Hungary,HU,T,Total,THS_PER,Thousand persons,units,,10.7,11,12,14.2,18.7
+HU,Hungary,HU,M,Males,PC_EMP,Percentage of total employment,units,,0.39,0.31,0.27,0.39,0.51
+HU,Hungary,HU,M,Males,THS_PER,Thousand persons,units,,7.9,6.4,5.7,8.7,11.6
+HU,Hungary,HU,F,Females,PC_EMP,Percentage of total employment,units,,0.16,0.26,0.35,0.29,0.37
+HU,Hungary,HU,F,Females,THS_PER,Thousand persons,units,,2.8,4.6,6.3,5.4,7
+MT,Malta,MT,T,Total,PC_EMP,Percentage of total employment,units,,0.38,0.46,0.57,0.57,0.5
+MT,Malta,MT,T,Total,THS_PER,Thousand persons,units,,0.6,0.8,1,1,0.9
+MT,Malta,MT,M,Males,PC_EMP,Percentage of total employment,units,,0.49,0.61,0.48,0.6,0.64
+MT,Malta,MT,M,Males,THS_PER,Thousand persons,units,,0.5,0.7,0.5,0.7,0.7
+MT,Malta,MT,F,Females,PC_EMP,Percentage of total employment,units,,,,0.71,0.52,
+MT,Malta,MT,F,Females,THS_PER,Thousand persons,units,,,,0.5,0.4,
+NL,Netherlands,NL,T,Total,PC_EMP,Percentage of total employment,units,,0.87,0.86,0.86,0.89,0.97
+NL,Netherlands,NL,T,Total,THS_PER,Thousand persons,units,,64,64.1,64.6,66.6,73.7
+NL,Netherlands,NL,M,Males,PC_EMP,Percentage of total employment,units,,0.83,0.8,0.79,0.81,0.92
+NL,Netherlands,NL,M,Males,THS_PER,Thousand persons,units,,32,31.3,31.8,32.9,37.7
+NL,Netherlands,NL,F,Females,PC_EMP,Percentage of total employment,units,,0.93,0.94,0.95,0.98,1.03
+NL,Netherlands,NL,F,Females,THS_PER,Thousand persons,units,,32,32.8,32.8,33.7,36
+AT,Austria,AT,T,Total,PC_EMP,Percentage of total employment,units,,0.62,0.59,0.63,0.67,0.87
+AT,Austria,AT,T,Total,THS_PER,Thousand persons,units,,25.1,24,25.8,27.8,35.9
+AT,Austria,AT,M,Males,PC_EMP,Percentage of total employment,units,,0.54,0.51,0.55,0.64,0.79
+AT,Austria,AT,M,Males,THS_PER,Thousand persons,units,,11.6,11.1,11.9,13.9,17.3
+AT,Austria,AT,F,Females,PC_EMP,Percentage of total employment,units,,0.72,0.67,0.72,0.72,0.95
+AT,Austria,AT,F,Females,THS_PER,Thousand persons,units,,13.5,12.9,13.9,13.9,18.6
+PL,Poland,PL,T,Total,PC_EMP,Percentage of total employment,units,,0.29,0.32,0.34,0.37,0.36
+PL,Poland,PL,T,Total,THS_PER,Thousand persons,units,,45.1,49.5,52.8,58.7,57.8
+PL,Poland,PL,M,Males,PC_EMP,Percentage of total employment,units,,0.3,0.33,0.35,0.4,0.36
+PL,Poland,PL,M,Males,THS_PER,Thousand persons,units,,26.2,28.6,29.8,34.7,31.5
+PL,Poland,PL,F,Females,PC_EMP,Percentage of total employment,units,,0.27,0.3,0.33,0.34,0.37
+PL,Poland,PL,F,Females,THS_PER,Thousand persons,units,,18.9,20.9,22.9,23.9,26.2
+PT,Portugal,PT,T,Total,PC_EMP,Percentage of total employment,units,,0.5,0.48,0.64,0.71,0.85
+PT,Portugal,PT,T,Total,THS_PER,Thousand persons,units,,23.9,21.8,28.3,32.2,38.9
+PT,Portugal,PT,M,Males,PC_EMP,Percentage of total employment,units,,0.49,0.54,0.85,0.8,1.04
+PT,Portugal,PT,M,Males,THS_PER,Thousand persons,units,,12.3,12.6,19.4,18.5,24.3
+PT,Portugal,PT,F,Females,PC_EMP,Percentage of total employment,units,,0.52,0.42,0.41,0.63,0.66
+PT,Portugal,PT,F,Females,THS_PER,Thousand persons,units,,11.6,9.2,8.9,13.6,14.5
+RO,Romania,RO,T,Total,PC_EMP,Percentage of total employment,units,,0.13,0.23,0.16,0.12,0.14
+RO,Romania,RO,T,Total,THS_PER,Thousand persons,units,,11.4,20,14.1,10.8,12.3
+RO,Romania,RO,M,Males,PC_EMP,Percentage of total employment,units,,0.17,0.28,0.21,0.17,0.17
+RO,Romania,RO,M,Males,THS_PER,Thousand persons,units,,8.2,13.3,9.9,8.1,8.1
+RO,Romania,RO,F,Females,PC_EMP,Percentage of total employment,units,,,0.18,,,
+RO,Romania,RO,F,Females,THS_PER,Thousand persons,units,,,6.8,,,
+SI,Slovenia,SI,T,Total,PC_EMP,Percentage of total employment,units,,0.56,0.44,0.46,0.45,0.61
+SI,Slovenia,SI,T,Total,THS_PER,Thousand persons,units,,5.2,4,4.1,4.1,5.4
+SI,Slovenia,SI,M,Males,PC_EMP,Percentage of total employment,units,,0.63,0.58,0.59,0.52,0.55
+SI,Slovenia,SI,M,Males,THS_PER,Thousand persons,units,,3.2,2.9,2.9,2.6,2.7
+SI,Slovenia,SI,F,Females,PC_EMP,Percentage of total employment,units,,0.48,0.27,0.31,0.38,0.67
+SI,Slovenia,SI,F,Females,THS_PER,Thousand persons,units,,2,1.1,1.3,1.5,2.7
+SK,Slovakia,SK,T,Total,PC_EMP,Percentage of total employment,units,,0.29,0.37,0.51,0.53,0.46
+SK,Slovakia,SK,T,Total,THS_PER,Thousand persons,units,,6.7,8.5,11.8,12.5,11.2
+SK,Slovakia,SK,M,Males,PC_EMP,Percentage of total employment,units,,0.32,0.48,0.64,0.64,0.54
+SK,Slovakia,SK,M,Males,THS_PER,Thousand persons,units,,4.1,6.2,8.3,8.4,7.3
+SK,Slovakia,SK,F,Females,PC_EMP,Percentage of total employment,units,,0.25,0.22,0.34,0.39,0.36
+SK,Slovakia,SK,F,Females,THS_PER,Thousand persons,units,,2.6,2.3,3.5,4.1,3.9
+FI,Finland,FI,T,Total,PC_EMP,Percentage of total employment,units,,0.96,0.96,1.06,1.27,1.26
+FI,Finland,FI,T,Total,THS_PER,Thousand persons,units,,23.5,23.7,25.8,30.8,30.7
+FI,Finland,FI,M,Males,PC_EMP,Percentage of total employment,units,,1.06,1.02,1.04,1.27,1.25
+FI,Finland,FI,M,Males,THS_PER,Thousand persons,units,,13.5,12.9,13,15.8,15.5
+FI,Finland,FI,F,Females,PC_EMP,Percentage of total employment,units,,0.85,0.9,1.08,1.27,1.28
+FI,Finland,FI,F,Females,THS_PER,Thousand persons,units,,10.1,10.7,12.8,15,15.2
+SE,Sweden,SE,T,Total,PC_EMP,Percentage of total employment,units,,1.26,1.36,1.51,1.54,1.6
+SE,Sweden,SE,T,Total,THS_PER,Thousand persons,units,,57.9,62.6,70.3,72.7,76.7
+SE,Sweden,SE,M,Males,PC_EMP,Percentage of total employment,units,,1.09,1.24,1.36,1.42,1.48
+SE,Sweden,SE,M,Males,THS_PER,Thousand persons,units,,26.2,29.9,33.3,35.3,37.1
+SE,Sweden,SE,F,Females,PC_EMP,Percentage of total employment,units,,1.46,1.49,1.67,1.66,1.73
+SE,Sweden,SE,F,Females,THS_PER,Thousand persons,units,,31.6,32.7,37,37.4,39.6
+UK,United Kingdom,GB,T,Total,PC_EMP,Percentage of total employment,units,,1.29,1.35,1.23,1.3,1.35
+UK,United Kingdom,GB,T,Total,THS_PER,Thousand persons,units,,374.4,395.1,364.4,395,417
+UK,United Kingdom,GB,M,Males,PC_EMP,Percentage of total employment,units,,1.28,1.42,1.32,1.39,1.43
+UK,United Kingdom,GB,M,Males,THS_PER,Thousand persons,units,,198,221.3,208.6,225.2,235.9
+UK,United Kingdom,GB,F,Females,PC_EMP,Percentage of total employment,units,,1.3,1.27,1.12,1.2,1.25
+UK,United Kingdom,GB,F,Females,THS_PER,Thousand persons,units,,176.4,173.8,155.8,169.8,181
+IS,Iceland,IS,T,Total,PC_EMP,Percentage of total employment,units,,2.06,2.21,2.09,1.95,1.97
+IS,Iceland,IS,T,Total,THS_PER,Thousand persons,units,,3.4,3.5,3.6,3.5,3.6
+IS,Iceland,IS,M,Males,PC_EMP,Percentage of total employment,units,,1.8,2.22,2.19,1.85,2.27
+IS,Iceland,IS,M,Males,THS_PER,Thousand persons,units,,1.6,1.8,2,1.7,2.2
+IS,Iceland,IS,F,Females,PC_EMP,Percentage of total employment,units,,2.34,2.19,1.98,2.07,1.63
+IS,Iceland,IS,F,Females,THS_PER,Thousand persons,units,,1.9,1.7,1.6,1.8,1.4
+NO,Norway,NO,T,Total,PC_EMP,Percentage of total employment,units,,0.8,0.83,0.93,0.91,0.98
+NO,Norway,NO,T,Total,THS_PER,Thousand persons,units,,19.6,20.9,23.4,23.9,25.8
+NO,Norway,NO,M,Males,PC_EMP,Percentage of total employment,units,,0.83,0.73,0.86,0.76,0.87
+NO,Norway,NO,M,Males,THS_PER,Thousand persons,units,,10.9,9.8,11.7,10.5,12.1
+NO,Norway,NO,F,Females,PC_EMP,Percentage of total employment,units,,0.77,0.96,1.02,1.09,1.1
+NO,Norway,NO,F,Females,THS_PER,Thousand persons,units,,8.6,11.1,11.8,13.5,13.7
+CH,Switzerland,CH,T,Total,PC_EMP,Percentage of total employment,units,,0.84,0.85,0.81,0.93,0.96
+CH,Switzerland,CH,T,Total,THS_PER,Thousand persons,units,,35,36,35,40.9,42.8
+CH,Switzerland,CH,M,Males,PC_EMP,Percentage of total employment,units,,0.73,0.75,0.7,0.77,0.77
+CH,Switzerland,CH,M,Males,THS_PER,Thousand persons,units,,16.7,17.3,16.3,18.2,18.3
+CH,Switzerland,CH,F,Females,PC_EMP,Percentage of total employment,units,,0.97,0.97,0.95,1.12,1.18
+CH,Switzerland,CH,F,Females,THS_PER,Thousand persons,units,,18.3,18.7,18.7,22.7,24.5
+MK,"Former Yugoslav Republic of Macedonia, the",MK,T,Total,PC_EMP,Percentage of total employment,units,,0.08,0.12,0.17,0.28,0.31
+MK,"Former Yugoslav Republic of Macedonia, the",MK,T,Total,THS_PER,Thousand persons,units,,0.5,0.8,1.1,1.9,2.2
+MK,"Former Yugoslav Republic of Macedonia, the",MK,M,Males,PC_EMP,Percentage of total employment,units,,,0.17,0.23,0.4,0.44
+MK,"Former Yugoslav Republic of Macedonia, the",MK,M,Males,THS_PER,Thousand persons,units,,,0.7,0.9,1.7,1.9
+TR,Turkey,TR,T,Total,PC_EMP,Percentage of total employment,units,,0.22,0.23,0.25,0.26,0.32
+TR,Turkey,TR,T,Total,THS_PER,Thousand persons,units,,52.5,57.3,64.3,66.3,84.4
+TR,Turkey,TR,M,Males,PC_EMP,Percentage of total employment,units,,0.25,0.24,0.28,0.28,0.38
+TR,Turkey,TR,M,Males,THS_PER,Thousand persons,units,,42.9,42.5,50.5,50.7,70.1
+TR,Turkey,TR,F,Females,PC_EMP,Percentage of total employment,units,,0.14,0.2,0.18,0.2,0.18
+TR,Turkey,TR,F,Females,THS_PER,Thousand persons,units,,9.7,14.7,13.7,15.5,14.2
+,,,,,,,,,,,,,
+Source:,Eurostat,,,,,,,,,,,,
+Download URL:,http://knoema.com/sprt_emp_sex/employment-in-sport-by-sex,,,,,,,,,,,,

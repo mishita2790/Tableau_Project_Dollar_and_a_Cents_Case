@@ -1,0 +1,17 @@
+,Description,Male,Female
+0,    No schooling completed,620,429
+1,    Nursery to 4th grade,641,404
+2,    5th and 6th grade,993,821
+3,    7th and 8th grade,"2,108","1,677"
+4,    9th grade,"2,017","1,747"
+5,    10th grade,"2,993","2,840"
+6,    11th grade,"3,733","3,235"
+7,"    12th grade, no diploma","2,647","2,661"
+8,    High school graduate (includes equivalency),"61,874","50,998"
+9,"    Some college, less than 1 year","15,115","17,277"
+10,"    Some college, 1 or more years, no degree","34,743","36,344"
+11,    Associate's degree,"17,812","21,743"
+12,    Bachelor's degree,"32,257","33,530"
+13,    Master's degree,"10,277","13,224"
+14,    Professional school degree,"2,998","1,934"
+15,    Doctorate degree,"2,948","1,632"
